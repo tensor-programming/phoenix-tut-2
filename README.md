@@ -1,11 +1,11 @@
-# Phoenix tutorial part 1
-# A real time chat app
+# Phoenix tutorial part 2
+# Adding CRUD to our Real time Chat app. 
 
-### In this tutorial we built a real time chat app which logs when users log in and allows users to send and recieve messages. 
+### In this tutorial, we build the basic CRUD structure for our user module in our chat app.  
 ## Run `mix.deps get` and `npm install` (or `yarn install`) to install the dependencies, then run `mix ecto.create` to create you db.
 ## Run `mix phoenix.server` or `iex -S mix phoenix.server` to run the app. 
 
-### Check out the Youtube Tutorial for this [Phoenix Program](https://youtu.be/irDC1nWKhZ8). Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
+### Check out the Youtube Tutorial for this [Phoenix Program](https://youtu.be/A--g6UuvK2E). Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
 
 ### Check out our blog at [tensor-programming.com](http://tensor-programming.com/).
 
